@@ -16,7 +16,7 @@ I'm an indie full-stack developer and content creator building my version of the
    </p>
 
 ---
--->
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -52,10 +52,10 @@ I'm an indie full-stack developer and content creator building my version of the
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/g3n1c5?sub_confirmation=1)
 
 #
-
+-->
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3n1c5&show_icons=true&theme=gruvbox)
+![G3n1c5's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3n1c5&show_icons=true&theme=shadow_blue)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
